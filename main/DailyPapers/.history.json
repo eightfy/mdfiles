@@ -1,0 +1,177 @@
+[
+  {
+    "id": "2606.26530v1",
+    "date": "2026-06-27",
+    "title": "\\textsc{DiARC}: Distinguishing Positive and Negative Samples Helps Improving ARC-like Reasoning Ability of Large Language Models"
+  },
+  {
+    "id": "2606.26466v1",
+    "date": "2026-06-27",
+    "title": "Soft Token Alignment for Cross-Lingual Reasoning"
+  },
+  {
+    "id": "2606.25984v1",
+    "date": "2026-06-27",
+    "title": "InvestPhilBench: A Multi-Layer Dynamic Benchmark for Evaluating Large Language Model Procedural Reasoning in Expert Investment Philosophy"
+  },
+  {
+    "id": "2606.16140",
+    "date": "2026-06-27",
+    "title": "VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models"
+  },
+  {
+    "id": "2606.27103v1",
+    "date": "2026-06-27",
+    "title": "The Riddle Riddle: Testing Flexible Reasoning in Large Language Models and Humans"
+  },
+  {
+    "id": "2606.26794v1",
+    "date": "2026-06-27",
+    "title": "ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP"
+  },
+  {
+    "id": "2606.26454v1",
+    "date": "2026-06-27",
+    "title": "Data-driven Machine Learning Cannot Reach Symbolic-level Logical Reasoning -- The Limit of the Scaling Law"
+  },
+  {
+    "id": "2606.26366v1",
+    "date": "2026-06-27",
+    "title": "Narration-of-Thought: Inference-Time Scaffolding for Defeasible Ethical Reasoning in Large Language Models"
+  },
+  {
+    "id": "2606.26228v1",
+    "date": "2026-06-27",
+    "title": "Interpreting \"Interpretability\" and Explaining \"Explainability\" in Machine Learning in Physics"
+  },
+  {
+    "id": "2606.24597",
+    "date": "2026-06-27",
+    "title": "Qwen-AgentWorld: Language World Models for General Agents"
+  },
+  {
+    "id": "2606.27237v1",
+    "date": "2026-06-27",
+    "title": "LMs as Task-Specific Knowledge Bases: An Interpretability Analysis"
+  },
+  {
+    "id": "2606.26875v1",
+    "date": "2026-06-27",
+    "title": "Information-Aware KV Cache Compression for Long Reasoning"
+  },
+  {
+    "id": "2606.26502v1",
+    "date": "2026-06-27",
+    "title": "Humans Disengage, Reasoning Models Persist: Separating Difficulty Registration from Deliberation Allocation"
+  },
+  {
+    "id": "2606.25750v1",
+    "date": "2026-06-27",
+    "title": "RAS: Measuring LLM Safety Through Refusal Alignment"
+  },
+  {
+    "id": "2606.02800",
+    "date": "2026-06-27",
+    "title": "Cosmos 3: Omnimodal World Models for Physical AI"
+  },
+  {
+    "id": "2606.16533",
+    "date": "2026-06-27",
+    "title": "Kairos: A Native World Model Stack for Physical AI"
+  },
+  {
+    "id": "2606.26057v1",
+    "date": "2026-06-28",
+    "title": "The Unfireable Safety Kernel: Execution-Time AI Alignment for AI Agents and Other Escapable AI Systems"
+  },
+  {
+    "id": "2606.27025v1",
+    "date": "2026-06-28",
+    "title": "Improving General Role-Playing Agents via Psychology-Grounded Reasoning and Role-Aware Policy Optimization"
+  },
+  {
+    "id": "2606.26787v1",
+    "date": "2026-06-28",
+    "title": "AIGP: An LLM-Based Framework for Long-Term Value Alignment in E-Commerce Pricing"
+  },
+  {
+    "id": "2606.25852v1",
+    "date": "2026-06-28",
+    "title": "Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents"
+  },
+  {
+    "id": "2606.26917v1",
+    "date": "2026-06-28",
+    "title": "GEOALIGN: Geometric Rollout Curation for Robust LLM Reinforcement Learning"
+  },
+  {
+    "id": "2606.27136v1",
+    "date": "2026-06-28",
+    "title": "Joint Learning of Experiential Rules and Policies for Large Language Model Agents"
+  },
+  {
+    "id": "2606.27009v1",
+    "date": "2026-06-28",
+    "title": "Semantic Early-Stopping for Iterative LLM Agent Loops"
+  },
+  {
+    "id": "2606.26671v1",
+    "date": "2026-06-28",
+    "title": "NebulaExp-8B: An Empirical Post-Training Pipeline via Full-Scale Ablation Research"
+  },
+  {
+    "id": "2606.26575v1",
+    "date": "2026-06-28",
+    "title": "IDEA: Insensitive to Dynamics Mismatch via Effect Alignment for Sim-to-Real Transfer in Multi-Agent Control"
+  },
+  {
+    "id": "2606.26571v1",
+    "date": "2026-06-28",
+    "title": "Zero-shot Tweet-Level Stance Detection Enhanced by External Knowledge and Reflective Chain-of-Thought Reasoning"
+  },
+  {
+    "id": "2606.26552v1",
+    "date": "2026-06-28",
+    "title": "Perception, Verdict, and Evolution: Hindsight-Driven Self-Refining Forensics Agent for AI-Generated Image Detection"
+  },
+  {
+    "id": "2606.26476v1",
+    "date": "2026-06-28",
+    "title": "Retrieval-Warmed Energy-Based Reasoning: A Five-Arm Ablation Methodology for Diffusion-as-Inference on Structured Reasoning Tasks"
+  },
+  {
+    "id": "2606.26387v1",
+    "date": "2026-06-28",
+    "title": "Staying VIGILant: Mitigating Visual Laziness via Counterfactual Visual Alignment in MLLMs"
+  },
+  {
+    "id": "2606.26080v1",
+    "date": "2026-06-28",
+    "title": "Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents"
+  },
+  {
+    "id": "2606.26029v1",
+    "date": "2026-06-28",
+    "title": "TriViewBench: Controlled Complexity Scaling for Multi-View Structural Reasoning in MLLMs"
+  },
+  {
+    "id": "2606.26021v1",
+    "date": "2026-06-28",
+    "title": "Privacy Vulnerabilities of Attention Layers in Tabular Foundation Models and Protection of High-Risk Queries"
+  },
+  {
+    "id": "2606.25941v1",
+    "date": "2026-06-28",
+    "title": "Explainable Control Framework (XCF) based on Fuzzy Model-Agnostic Explanation and LLM Agent-Supported Interface"
+  },
+  {
+    "id": "2606.26997v1",
+    "date": "2026-06-28",
+    "title": "RolloutPipe: Overlapping Pipelined Rollout and Training in Disaggregated On-Policy LLM Reinforcement Learning"
+  },
+  {
+    "id": "2606.26935v1",
+    "date": "2026-06-28",
+    "title": "Where Do CoT Training Gains Land in LLM based Agents?"
+  }
+]
