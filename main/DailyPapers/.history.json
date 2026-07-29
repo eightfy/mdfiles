@@ -439,5 +439,840 @@
     "date": "2026-06-30",
     "source": "openalex-intersection",
     "score": 5
+  },
+  {
+    "id": "",
+    "title": "GLM-5: from Vibe Coding to Agentic Engineering",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Zep: A Temporal Knowledge Graph Architecture for Agent Memory",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "RAG-Anything: All-in-One RAG Framework",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "A decoder-only foundation model for time-series forecasting",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Efficient Memory Management for Large Language Model Serving with\n  PagedAttention",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Transformer Explainer: Interactive Learning of Text-Generative Models",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "AgentScope 1.0: A Developer-Centric Framework for Building Agentic\n  Applications",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Very Large-Scale Multi-Agent Simulation in AgentScope",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Geometric Context Transformer for Streaming 3D Reconstruction",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "OpenDevin: An Open Platform for AI Software Developers as Generalist\n  Agents",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "SmolDocling: An ultra-compact vision-language model for end-to-end\n  multi-modal document conversion",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of\n  Encoders",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "OpenRath: Session-Centered Runtime State for Agent Systems",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "GEAR: Guided End-to-End AutoRegression for Image Synthesis",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "ABot-M0.5: Unified Mobility-and-Manipulation World Action Model",
+    "date": "2026-07-02",
+    "source": "hf-daily"
+  },
+  {
+    "id": "",
+    "title": "Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning",
+    "date": "2026-07-02",
+    "source": "hf-daily"
+  },
+  {
+    "id": "",
+    "title": "LightRAG: Simple and Fast Retrieval-Augmented Generation",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "",
+    "title": "Efficient Guided Generation for Large Language Models",
+    "date": "2026-07-02",
+    "source": "hf-trending"
+  },
+  {
+    "id": "https://doi.org/10.5281/zenodo.18908883",
+    "title": "Dataset : When the Machine Is Not Enough: An Autoethnography of AI-Assisted Amateur Research and the Boundaries of Epistemic Authority",
+    "date": "2026-07-02",
+    "source": "openalex-intersection"
+  },
+  {
+    "id": "https://doi.org/10.17613/fdwhn-ejz93",
+    "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
+    "date": "2026-07-02",
+    "source": "openalex-intersection"
+  },
+  {
+    "id": "https://doi.org/10.5281/zenodo.18468549",
+    "title": "Holistic Development Of Personality: A Perspective Of Indian Pedagogy",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.21953/researchonline.lse.ac.uk.00137155",
+    "title": "Predictions at war: an inferential approach to decision-making in international politics",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.21953/researchonline.lse.ac.uk.00137163",
+    "title": "On being justifiable to others: act contractualism, numbers and justification",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "The Good Life Network",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Analyze arguments",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.17613/90v07-0pa54",
+    "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
+    "date": "2026-07-02",
+    "source": "openalex-intersection"
+  },
+  {
+    "id": "https://doi.org/10.5281/zenodo.18601847",
+    "title": "Experiences of psychotic symptoms among Greek fathers: A qualitative study",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.17638/03061303",
+    "title": "The construct of institutional distance through the lens of diverse institutional perspectives: Review, analysis, and future directions.",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.5281/zenodo.19407789",
+    "title": "Art as an Algorithmic Virus: Unifying the Generative Crash and AI Value Convergence via Cognitive Affordances",
+    "date": "2026-07-02",
+    "source": "openalex-intersection"
+  },
+  {
+    "id": "",
+    "title": "The Prophet and His Poor - Rancièran readings of 19th century Danish literature",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.82227/repository.uwtsd.ac.uk.00003980",
+    "title": "An Analysis of Filial Relations in the Teachings of Jesus and Muhammad from the Perspective of Comparative Ethics and Scriptural Reasoning",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.5526/err-00042103",
+    "title": "Self-censorship in Saudi cinema: aesthetics and representations",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.18743/pub.00057500",
+    "title": "Living with the Foreign Agents’ Law: a socio-legal analysis of Russian human rights defenders’ responses to the Foreign Agents’ Law, 2012-2024",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Human Remains: Everest and the Ontological Afterlives of George Mallory and Andrew Irvine",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "The Archive at the End of the World: Speculative Preservation and the Politics of Loss",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.25602/gold.00040376",
+    "title": "Places and Non-Places for Language",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "L’Un, l’être, les principes chez Damascius: Lecture du Traité des premiers principes",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "From Texts to Contradictions: The Triple Connotation of Marx’s “Real Movement” and the Dynamic Convergence of Communism",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Intercultural Dialogue within the Self",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "A story of creative writing in prisons: working on generative justice",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.18743/pub.00056758",
+    "title": "Writing as Spiritual Practice: Beyond Dominant Narratives.",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Revising the Role of Minors and Their Participation in Their End-of-Life Care: An Argument for a Shared Decision-Making Model Rooted in Pediatric Patients’ Decision-Making Capacity",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "La défiance partisane en question. Des tensions internes à la résilience organisationnelle",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Objects of Indecision: Christian Perceptions of Natural Images in Premodern Western Culture",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "The Emerald Handbook on the Challenge of the New: The Legitimation Phenomenon",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.48683/1926.00129768",
+    "title": "Experiences of employees Impacted by the toxic behaviours of leaders and colleagues: a phenomenological study",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Onto-Epistemology",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "The Ethical and Legal Complexities of Regulating Companion AI Chatbots",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Adaptation and/as salvage",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Sharpening Philosophical Concepts: Thomas Kuhn and the History of Quantum Physics",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Psychogeography in the twenty-first century : embodiment and the city",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Onto-Epistemology",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.5258/soton/d3820",
+    "title": "Dataset for \"Experiences of Mental Wellbeing and Help Seeking in UK LGBTQ+ Veterans\"",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.14288/1.0451929",
+    "title": "Understanding allyship through a moral and justice lens",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.18743/pub.00056560",
+    "title": "Women, Leadership and the “Internal glass mirror”",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Time, temporality, and migration in the Global South: a critical reading",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "\"S-PIC4CHU (Semantics-based Provenance, Integrity, and Curation for Consistent, High-quality, and Unbiased data science)\".",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.14288/1.0388227",
+    "title": "Participating in other worlds : locating gurbilās literature in the wider world of Brajbhasha traditions",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.21953/lse.00004965",
+    "title": "Entrepreneurial subjectivity, expertise, and speculation in artificial intelligence start-ups in Taipei, Taiwan",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Damascius' Commentary on Parm. 160B6–C2. Some Additions and Corrections to the Budé Edition",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Potential Applications of Realist Methodologies to Implementation Science Research",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Bedrøvelsens tid: jura og psykiatri i Danmark 1767-1866:The Time of Sorrow: Law and Psychiatry in Denmark 1767–1866",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "Theatre of the Tech-Oppressed: Exploring algorithmic injustice through participatory performances",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "IASDR Congress 2025: Design Next",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.15382/sturiii202686.101-121",
+    "title": "«Liber de fide» by Rufinus the Syrian and its contribution to the Pelagian controversies of the early 5th century. Pt. 1",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "https://doi.org/10.15382/sturiii202686.122-141",
+    "title": "God. A fragment from the systematic French-Russian dictionary of religious lexis. Pt. 1",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "The Role of Collective Bricolage in Creating University Governance Structures: The Example of the Galileo Observatory",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "",
+    "title": "« Just War Theory In the Catholic Herald: A Catholic Perspective OnModern Conflicts »",
+    "date": "2026-07-02",
+    "source": "openalex-pure"
+  },
+  {
+    "id": "2607.02507",
+    "title": "What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01531",
+    "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01511",
+    "title": "Revisiting Chain-of-Thought Reasoning under Limited Supervision: Semi-supervised Chain-of-Thought Learning",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01232",
+    "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02436",
+    "title": "Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01595",
+    "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01571",
+    "title": "Geometric Signatures of Reasoning: A Spectral Perspective on Task Hardness",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01170",
+    "title": "Diffusion-GR2: Diffusion Generative Reasoning Re-ranker",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02490",
+    "title": "Visually Grounded Self-Reflection for Vision-Language Models via Reinforcement Learning",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02387",
+    "title": "Bringing Agentic Search to Earth Observation Data Discovery",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02386",
+    "title": "Transformer Geometry Observatory TGO-II: Representational Similarity Observatory",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02255",
+    "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02182",
+    "title": "Bayesian Sparse Low-Rank Adaptation for Large Language Model Uncertainty Estimation",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02118",
+    "title": "Enhancing Fitness Intelligence through Domain-Specific LLM Post-Training",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02032",
+    "title": "PACE: A Proxy for Agentic Capability Evaluation",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01977",
+    "title": "OntoLearner: A Modular Python Library for Ontology Learning with Large Language Models",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01936",
+    "title": "CausalSteward: An Agentic Divide-Conquer-Combine Copilot for Causal Discovery",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01927",
+    "title": "TUDUM: A Turkish-Thinking Reasoning Pipeline for Qwen3.5-27B",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01793",
+    "title": "Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01766",
+    "title": "SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01600",
+    "title": "BOUNDARY_SYNC: Measuring Communication-Induced Representational Coupling in Multi-Agent LLM Systems",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01440",
+    "title": "FaithMed: Training LLMs For Faithful Evidence-Based Medical Reasoning",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01415",
+    "title": "The Rollout Infrastructure Tax in Coding-Agent Reinforcement Learning",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01311",
+    "title": "From Approximation to Emergence: A Theory of Deep Learning",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.01125",
+    "title": "ZO-Act: Efficient Zeroth-Order Fine-Tuning via One-Shot Activation-Informed Low-Rank Subspaces",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02509",
+    "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02416",
+    "title": "The Future of NLP may not be at NLP Conferences: Scholarly Migration Patterns in Natural Language Processing",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02396",
+    "title": "Fast Multi-dimensional Refusal Subspaces via RFM-AGOP",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02376",
+    "title": "Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "2607.02325",
+    "title": "Personality Without Persons? A Psychometric Critique of Big Five Testing in Large Language Models",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "https://doi.org/10.29140/aile.2026.104937",
+    "title": "Caribbean lecturers’ navigation and perceptions of academic integrity and AI-detection software in English for academic purposes (EAP) modules",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.31275/20264013",
+    "title": "Response to Letters Regarding “Testing Noetic Potential in Large Language Models”",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1038/s44387-026-00086-2",
+    "title": "Attention, not scale, drives human-AI alignment in multimodal language prediction",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.17613/rn0nk-bcs39",
+    "title": "CFP: Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.60923/issn.1825-1927/24092",
+    "title": "La maieutica nell'era dell'Intelligenza Artificiale",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.3389/fpsyg.2026.1709038",
+    "title": "Bodily-sensory modalities are linguistic modalities: supporting participation of people with congenital deafblindness in cultural language practice through insights from the protactile movement and material engagement theory",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.17869/enu.275195",
+    "title": "Applying Experientialism to HCI Methods",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.17869/enu.253765",
+    "title": "Exploring a semiotics of new media",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.58811/opsearch.v5i7.286",
+    "title": "A Phenomenological-Hermeneutical and Sufism Study of the Artistic Creative Process of Three Soul Travelers of the Qudusiyah Sufi Order",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1007/s11217-026-10098-9",
+    "title": "Human–Nature Relationship in Gramsci: Contributions to Critical Pedagogy and Ecopedagogy",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1201/9781003645320",
+    "title": "Dust Explosions in the Pharmaceutical and Food Industries",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.17869/enu.277873",
+    "title": "Living cameras: a study of live bodies and mediatized images in multi-media performance and installation art practice.",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.70184/29dgy319",
+    "title": "English Part-Time Teachers’ Burnout Experiences in Indonesia Education Context",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1057/s41599-026-08231-7",
+    "title": "Understanding linguistic accommodation in science and literature: professional norms reshape gendered discourse",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.26686/5mk0-re05",
+    "title": "Peer Coaching as a Continuous Professional Development Strategy in Higher Education: A Case Study from a Pakistani University",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1016/j.chbah.2026.100346",
+    "title": "Of mice and men and robots: mapping human interactions with nonhuman significant others",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.3389/frsus.2026.1809425",
+    "title": "Imagining justice: approaching justice as a process of imaginative hybridity in times of polycrisis",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1007/s11217-026-10095-y",
+    "title": "From Thoughtfulness to Resonance? Recasting Pedagogical Tact as Ecological Attunement",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1007/s13347-026-01141-1",
+    "title": "Beyond the Black Box: Mapping the Ontogenesis of AI-Generated Images Through Latent Space Analysis",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.5709/alp-02.01.2026-03",
+    "title": "Digital Colonialism and Algorithmic Power: Data Sovereignty and AI Governance in the Global South",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.17869/enu.277342",
+    "title": "An expert system for the performance control of rotating machinery",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.56048/mqr.2026.e471",
+    "title": "Demanda psicológica y Bienestar laboral en los Servidores Públicos de una Institución Pública de la Provincia de Cotopaxi",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.3389/fendo.2026.1829424",
+    "title": "Hope is everything – an hermeneutic phenomenological study on the lived experiences of individuals with adrenocortical carcinoma",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.48550/arxiv.2607.06544",
+    "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.17613/48swt-tzz94",
+    "title": "CFP: Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.17705/1cais.05833",
+    "title": "Narratives of the Future - Exploring Human-AI Collaboration",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.3389/fphy.2026.1768372",
+    "title": "Artificial intelligence: unpredictable or unprestatable?",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1038/s41598-026-61009-4",
+    "title": "Mindfulness and artificial intelligence self-efficacy among university students: the mediating role of artificial intelligence literacy",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.52783/1h2a2907",
+    "title": "Impact of Artificial Intelligence in Education in Africa",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.14445/22315381/ijett-v74i6p116",
+    "title": "Contextualising Artificial Intelligence in Inclusive Higher Education",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.52783/eel.v16i3.4432",
+    "title": "Artificial Intelligence and Its Influence on Strategic Management Decisions",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.31269/sqk8nt89",
+    "title": "Artificial Intelligence and the Limits of Accumulation: Capital, Crisis, and the US Hegemonic Autumn in the World Market",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.34105/j.kmel.2026.18.016",
+    "title": "Evaluating the impact of artificial intelligence in mathematics education: A systematic literature review",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.26886/2414-634x.1(70)2026.2",
+    "title": "THE CULTURAL BOUNDARY IN THE VIRTUALIZATION OF SOCIAL COMPLEXITY: THE CHALLENGE OF ARTIFICIAL INTELLIGENCE TO THE MEANING-MAKING NATURE OF COMMUNICATION",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1186/s43093-026-00920-8",
+    "title": "The role of artificial intelligence solutions in contemporary marketing shifts: Evidence and analysis from advanced digital environments",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.1108/eemcs-12-2025-0874",
+    "title": "Digital Karam: AI meets Arabian hospitality traditions",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.31235/osf.io/cbjem_v1",
+    "title": "Designing AI Afterlife Agents: A Socio-Technical Design Space, Lifecycle Model, and Prompt Architecture",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.5709/alp-02.01.2026-07",
+    "title": "Who Governs Parliamentary AI? Accountability Gaps in the Institutional Use of AI",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.71456/sultan.v4i2.2210",
+    "title": "Legal Reform to Address the Regulatory Gap on Deepfakes as a Digital Manipulation Tool that Threatens Civil Rights Based on a Legal Philosophy Perspective",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.4018/979-8-2600-2905-3.ch003",
+    "title": "Eye Miss You",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "https://doi.org/10.54097/zxj1af52",
+    "title": "Presentation of Material Perception and Natural Environmental Memory in Installation Art with Technology Intervention",
+    "date": "2026-07-10"
   }
 ]
